@@ -52,4 +52,9 @@ public class ZerodhaHomePageTest
 		
 		zerodhahomepage.addstocktowatchlist(driver);
 	}
+	@Test
+	public void demo()
+	{
+		System.out.println("hiii");
+	}
 }
