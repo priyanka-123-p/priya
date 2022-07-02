@@ -6,6 +6,8 @@
       <class name="Test.ZerodhaHomePageTest">
         <methods>
           <include name="entercorretpin"/>
+          <include name="demo"/>
+          <include name="demo2"/>
           <include name="browser"/>
         </methods>
       </class> <!-- Test.ZerodhaHomePageTest -->

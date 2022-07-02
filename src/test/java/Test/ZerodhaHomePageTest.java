@@ -57,4 +57,9 @@ public class ZerodhaHomePageTest
 	{
 		System.out.println("hiii");
 	}
+	@Test
+	public void demo2()
+	{
+		System.out.println("new test added recently...");
+	}
 }
